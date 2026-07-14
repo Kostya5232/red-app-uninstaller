@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=Удаление программ
+Name[en]=Application Uninstaller
+GenericName=Менеджер удаления приложений
+GenericName[en]=Application Uninstaller
+Comment=Удаление приложений по настоящим названиям и значкам
+Comment[en]=Remove applications using their real names and icons
+Exec=/opt/red-app-uninstaller/red_uninstaller.py
+Icon=red-app-uninstaller
+Terminal=false
+StartupNotify=true
+Categories=System;Settings;PackageManager;
+Keywords=удаление;программы;приложения;пакеты;uninstall;remove;
